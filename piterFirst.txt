@@ -1,0 +1,1 @@
+page-header,site-search-panel block,page-nav,sp-player__info,site-header,advert--banner-wrap-ghost,page-nav,site-footer,grid__col site-layout-secondary__col2 adaptive-content adaptive-content--loaded,polaris-sponsor-banner block is-hidden--bp10
